@@ -1,1 +1,0 @@
-Clarity is built on [Travis](https://travis-ci.org/vmware/clarity) for every push, including those on pull requests.
