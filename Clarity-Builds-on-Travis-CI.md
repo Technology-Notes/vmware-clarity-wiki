@@ -30,7 +30,7 @@ Here's a more detailed description of what each job does:
    INFO: uploading: /home/travis/build/jeeyun/clarity/selenium.txt (size: 2.7MB)
 	  download_url: https://s3.amazonaws.com/travis-ci-jeeyun/jeeyun/clarity/105/105.2/selenium.txt
    ```
-* `TEST_SUITE=css:reference`: builds Clarity and takes screenshots of every component that's tested in the css regression test **from the current build's code**. This is useful because if a css regression test fails due to an expected visual change, then you can download the new set of screenshots, and replace the current (which are located in `gemini/screens` directory from Clarity project's root.
+* `TEST_SUITE=css:reference`: builds Clarity and takes screenshots of every component that's tested in the css regression test **from the current build's code**. This is useful because if a css regression test fails due to an expected visual change, then you can download the new set of screenshots, and replace the current (which are located in `gemini/screens` directory from Clarity project's root, and check them in to your PR branch. The subsequent build should hopefully pass! If the visual changes require change in tests, then you can add or edit existing tests under `gemini/tests` directory from Clarity project's root.
    * **reference screenshots**: The entire set of screenshots is zipped and uploaded to s3 and will have a url that ends in '../screenshots.zip'. Here is an example snippet from a job's console log:
    ```
    INFO: uploading: /home/travis/build/jeeyun/clarity/screenshots.zip (size: 2.6MB)
