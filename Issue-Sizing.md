@@ -3,7 +3,7 @@
 2. Incorporate the average velocity into short-term planning (e.g. the next milestone) and long term planning (large features or major version releases, etc)
 
 ## Sizing issues
-Sizing issues is the first step to calculating the velocity of the clarity project. We are trying to keep to the practice of non time based estimates for level of effort to complete an issue. By keeping the issue sizing process light we strive for two things: an average velocity and a long term planning and estimation formula based on the current average velocity. 
+Sizing issues is the first step to calculating the velocity of the Clarity project. We are trying to keep to the practice of non time based estimates for level of effort to complete an issue. By keeping the issue sizing process light we strive for two things: an average velocity and a long term planning and estimation formula based on the current average velocity. 
 
 Because we want to keep this process light final issue size estimates are left to the engineer or designer doing the work. We rely on our teammates to keep us realistic so that the average velocity reflects what the team can accomplish on a per milestone basis. 
 
