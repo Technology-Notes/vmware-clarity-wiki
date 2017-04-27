@@ -16,7 +16,7 @@ Sizing is based on the Fibonacci sequence and is used to indicate larger and lar
 * **3pt** - (Medium issue) is straight forward with more involved changes to architecture or, has new 'things' that need to be built and tested to resolve the issue. 
 * **5pt** - (Medium issue) is more ambiguous that might or might not take some researching and prototyping to resolve the issue.
 * **8pt** - (Large issue) is not straight forward. Has several unknowns that need to be researched/prototyped and will likely go through several rounds of design review before implementing the changes.
-* **13pt** - (Large issue) is complex and will very likely be an ongoing development test. Should prolly be broken up into a smaller mvp issue and one or two enhancement issues. 
+* **13pt** - (Large issue) is complex and will very likely be an ongoing development task. Should probably be broken up into a smaller mvp issue and one or two enhancement issues. 
 * **21pt** - (Small epic) A combination of 1-2 issues (sm/md/lg) that need to be grouped and delivered together. 
 * **34pt** - (Medium epic) A combination of 2-5 issues (sm/md/lg) that need to be grouped and delivered together.
 * **55pt** - (Large epic) A combination of 5+ issues (sm/md/lg) that need to be grouped and delivered together.
