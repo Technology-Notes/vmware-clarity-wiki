@@ -29,5 +29,7 @@ Sizing is based on the Fibonacci sequence and is used to indicate larger and lar
 Imagine that our velocity is ~16 pt / milestone and we have something big to accomplish by October 1st.
 This gives us 20 milestones (sprints) to work on the issues. And for planning we group the smaller issues into larger epics that can be (roughly) given a size. Once we have an epic size estimation and a fixed date we can connect the dots. Thats step one. This info can be saved and adjusted as time moves forward giving the team an indication of its progress towards the October 1st goal. 
 
+![fullsizerender](https://cloud.githubusercontent.com/assets/433692/25498405/b56e3a4c-2b3c-11e7-83b5-48828b3668bf.jpg)
+
 
 
