@@ -3,6 +3,9 @@ CSS regression is run with a suite of gemini tests. In order to make testing eas
 
 Running tests locally depends on having [Docker](https://www.docker.com/get-docker) installed and running. 
 
+We also need `gemini` and the `html-reporter` installed on the local machine.
+- npm install -g gemini
+- npm install -g html-reporter
 There are two commands built into our npm scripts:
 1. Run tests
     1. `npm run cssTest set1` will run all the test suites in set1
