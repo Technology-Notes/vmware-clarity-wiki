@@ -6,13 +6,16 @@ Running tests locally depends on having [Docker](https://www.docker.com/get-dock
 We also need `gemini` and the `html-reporter` installed on the local machine.
 - npm install -g gemini
 - npm install -g html-reporter
+
 There are two commands built into our npm scripts:
+
 1. Run tests
     1. `npm run cssTest set1` will run all the test suites in set1
     2. `npm run cssTest set1/buttons.js` will run the buttons.js suite of tests
 2. Update reference images
     1. `npm run cssUpdate set1` will run `gemini update` on all the test suites in set1
     2. `npm run cssUpdate set1/buttons.js` will run `gemini update` on the buttons.js test suite
+
 
 Note: we have currently broken up the tests into two sets, set1 and set2. 
 
