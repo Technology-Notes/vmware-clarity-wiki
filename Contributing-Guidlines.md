@@ -12,6 +12,8 @@ This page serves as a knowledge base for brain dumping our contribution guidelin
 * Component architecture
 * API Patterns in use
 
+### Filenames
+
 ### Build Tooling
 * Script naming conventions in use
 
