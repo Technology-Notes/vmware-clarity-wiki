@@ -91,10 +91,17 @@ _internalMethodThatNeedsToBePublic()
 ```
 Finally, some properties or methods needs to be public for wiring purposes, but we don't want consumers to play with them. These will stay public but be prefixed with an underscore.
 
+##### Filenames
+
+* Components or directives should be named without a suffix like `datagrid-row.ts`, and be placed in the main module folder like `/datagrid/datagrid-row.ts`.
+* Providers, factories, services should be named with a suffix like `wizard-navigation.service.ts`, and be placed inside of a `providers` director of the module folder like `/wizard/providers/wizard-navigation.service.ts`.
+* Interfaces TBD
+* Utilities TBD
+
 #### Component architecture
 #### API Patterns in use
 
-### Filenames
+
 
 ### Build Tooling
 * Script naming conventions in use
