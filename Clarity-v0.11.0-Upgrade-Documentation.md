@@ -78,5 +78,18 @@ import { thing } from "clarity-angular";
 import { thing } from "@clr/angular";
 ```
 
+# v0.11 Deprecations
+
+All object names now conform to our naming conventions. We've deprecated the existing names so you can upgrade without issue, but you will need to modify references to Clarity components and services.
+
+The changes are simple and only names, but will help avoid naming collisions with other projects by using proper prefix `Clr` on anything we export. Here are some examples.
+
+```
+Wizard -> ClrWizard
+Button -> ClrButton
+State -> ClrDatagridStateInterface
+SortOrder -> ClrDatagridSortOrder
+```
+
 ## Thats All
 Once the **.angular-cli.json** and **import** statements are updated for your application it should build and run just as it did before. If you have questions or issues for upgrading upir application then please reach out on StackOverflow with the tag **[vmware-clarity](https://stackoverflow.com/questions/tagged/vmware-clarity)** or on twitter **[@vmweareclarity](https://twitter.com/vmwareclarity)**. 
