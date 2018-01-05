@@ -13,6 +13,10 @@ _Describe the change or feature in detail. Try to answer the following questions
 * Does this change impact existing behaviors? If so how?
 * 
 
+# API
+
+_Describe the intended API for the feature you want to add: input/outputs, components, directives, services, or anything that is exported publicly. One of the best way to describe it is to show code snippets using this new feature. In the case of bug fixes or internal changes, there will most likely be no API changes. Please note clearly if anything *might* be a breaking change._
+
 # Implementation Plan
 
 _Describe how you plan to implement the feature, answering the following questions._
@@ -21,10 +25,6 @@ _Describe how you plan to implement the feature, answering the following questio
 * Can you describe the basic code flow of the changes?
 * Does this introduce asynchronous behaviors?
 * What changes happen to existing code vs new code?
-
-# API Changes
-
-_Describe the API changes that are required for this change. Note clearly if anything *might* be a breaking change. API changes are things like adding or changing input/outputs, components, directives, services, or anything that is exported publicly. Any changes should also be demonstrated with code snippets that show the intended API._
 
 # Examples
 
