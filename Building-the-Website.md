@@ -1,4 +1,9 @@
-This documents the way the website is built and deployed with GitHub Pages. Our website is versioned, whcih 
+This documents the way the website is built and deployed with GitHub Pages. Our website is now versioned, and the different versions of the website are kept in separate branches.
+
+`new-website` - This contains the latest version of the website, including the home, community, news pages.
+`v0.10-website` - This contains the version for v0.10 documentation.
+
+If you only plan to make changes in the latest version, you don't need to worry about the other versions when you work with the website. However, if you plan to make changes to an older version, you will need to have the latest version as well to be able to build and preview it correctly.
 
 # Setup local environment
 
@@ -53,15 +58,6 @@ npm run deploy
 Once this is done, you can run `npm start` from the parent directory (where the package.json file and the directories live) and it will start a local server. You have to go to `http://localhost:8080/clarity` to see the website locally (because on GitHub it is hosted at the path /clarity, this emulates that correctly locally).
 
 Every time you make file changes you have to run the `npm run deploy` command from the directory you made changes, which can be slow. It is recommended to use dev mode (described below) when trying to make larger changes and only preview the static assets after you're more confident it is close to ready.
-
-# Versioning
-
-Our website is now versioned, and the different versions of the website are kept in separate branches.
-
-`new-website` - This contains the latest version of the website, including the home, community, news pages.
-`v0.10-website` - This contains the version for v0.10 documentation.
-
-If you only plan to make changes in the latest version, you don't need to worry about the other versions when you work with the website. However, if you plan to make changes to an older version, you will need to have the latest version as well to be able to build and preview it correctly.
 
 # Local dev development
 
