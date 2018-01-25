@@ -13,7 +13,7 @@ To properly build and run the site, you'll need to setup a new directory. The sc
 git clone -b gh-pages https://github.com/vmware/clarity.git clarity
 git clone -b new-website https://github.com/vmware/clarity.git latest
 git clone -b v0.10-website https://github.com/vmware/clarity.git v0.10
-cd latest && npm run generate-release-notes && npm i && npm run build
+cd latest && npm i && npm run generate-release-notes && npm run build
 cd ../v0.10 && npm i
 cd ../
 cat <<EOT>> package.json
