@@ -1,52 +1,31 @@
-This documents the way the website is built and deployed with GitHub Pages. Our website is now versioned, and the different versions of the website are kept in separate branches.
+This documents the way the website is built and deployed with GitHub Pages. Our website is now versioned, and the different versions of the website are kept together in the `website` branch.
 
-`new-website` - This contains the latest version of the website, including the home, community, news pages.
-`v0.10-website` - This contains the version for v0.10 documentation.
+Inside of this branch there are two basic directories
 
-If you only plan to make changes in the latest version, you don't need to worry about the other versions when you work with the website. However, if you plan to make changes to an older version, you will need to have the latest version as well to be able to build and preview it correctly.
+`latest` - This contains the latest version of the website, including the home, community, news pages.
+`v0.10` - This contains the version for v0.10 documentation. (Other folders may exist for other versions as well)
 
 # Setup local environment
 
-To properly build and run the site, you'll need to setup a new directory. The script below could be used in a *nix environment. Open the terminal, navigate to this new directory and run the following.
+To properly build and run the site, you'll start by cloning the repo and checking out the website branch. Then you'll need to setup each of the versions that you plan to preview and build. The script below could be used in a *nix environment. Open the terminal, navigate to this new directory and run the following.
 
 ```
-git clone -b gh-pages https://github.com/vmware/clarity.git clarity
-git clone -b new-website https://github.com/vmware/clarity.git latest
-git clone -b v0.10-website https://github.com/vmware/clarity.git v0.10
-cd latest && npm i && npm run generate-release-notes && npm run build
-cd ../v0.10 && npm i
-cd ../
-cat <<EOT>> package.json
-{
-  "name": "clarity",
-  "version": "0.0.0",
-  "scripts": {
-    "start": "http-server ."
-  },
-  "private": true,
-  "devDependencies": {
-    "http-server": "latest"
-  }
-}
-EOT
-npm i
+git clone -b website https://github.com/vmware/clarity.git website
+cd website
+npm install
+cd latest
+npm install
+cd ../v0.10
+npm install
 ```
 
-The result should be like the following:
-
-```
-/clarity - copy of the `gh-pages` branch
-/latest - checkout `new-website`
-/node_modules - node modules
-/v0.10 - checkout `v0.10-website`, which is only necessary if you are going to update old versions of the docs
-/package.json - file that contains basic npm scripts to run a local server
-```
+Each directory is essentially its own version of the website so each has its own node modules. If new versions are added, you'll need to run `npm install` inside of that directory as well.
 
 This gets the necessary assets ready for building, previewing, and deploying the website.
 
 # Local preview of final build
 
-If you have the folder structure as outlined above, then you can easily build and preview the website locally. To do this you must start by building the static files for each version. The `npm run deploy` command is used inside of each version directory to build the assets and drops them inside of the `./clarity` directory.
+If you have the folder structure as outlined above, then you can easily build and preview the website locally. To do this you must start by building the static files for each version. The `npm run deploy` command is used inside of each version directory to build the assets and drops them inside of the `./clarity` directory (which is ignored by git).
 
 ```
 cd ./latest
@@ -72,14 +51,10 @@ Then view `http://localhost:4200` to see the website in dev mode.
 
 > Note, the version switcher does not currently work in dev mode.
 
-# Local prerendering development
+# Adding new versions to website
 
-You can also preview the local prerendering mode, which is similar to the dev mode except that it builds the static assets and serves them instead. You usually don't need to use this, but it is available.
-
-```
-cd ./v0.10-website        # navigate to the version directory
-npm run build:static      # run the build command that generates the static assets
-npm run serve:static      # run the serve command to view the static assets locally
-```
-
-You can also run the `serve:static` command in one terminal and then run the `build:static` in another terminal to refresh the static assets as you make changes. There is no watch mode however.
+* Copy the current `latest` directory to a new directory with the version name like `v1.0`.
+* Update the `src/environments/environment.prod.ts` file with the correct `version` property.
+* Copy the `v0.10/prerender.ts` script over the `newVersion/prerender.ts` script.
+* Remove anything from the `news`, `community`, `releases`, `home`, `icons` directories. See `v0.10` for what was kept.
+* Update the new version Angular routes so the documentation is now the root of the URL routing. See `v0.10` for how it was updated.
