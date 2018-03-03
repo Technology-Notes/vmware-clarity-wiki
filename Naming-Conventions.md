@@ -79,7 +79,7 @@ It's public, it needs a Clr prefix. Enum values are SCREAMING_SNAKE_CASE because
 ClrModal.open
 ClrWizard.next()
 ```
-Public VS private:
+[Public VS private](#public-vs-private)
 ```
 private subscription: Subscription;
 
