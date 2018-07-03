@@ -16,3 +16,4 @@ but awaiting proper documentation.
 
 ## Documentation
 
+* Recommendation for an "Export" functionality in Datagrid
