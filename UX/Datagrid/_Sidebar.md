@@ -6,4 +6,4 @@
         * [Minimum height](Datagrid-minimum-height)
         * [Hierarchical datagrid](Hierarchical-datagrid)
         * [Virtual scrolling](Datagrid-virtual-scrolling)
-        * [Export functionality](Datagrid-export.md)
+        * [Export functionality](Datagrid-export)
