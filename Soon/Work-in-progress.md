@@ -8,11 +8,11 @@ but awaiting proper documentation.
 
 ## Engineering
 
-* Form components (#1878)
-* Select component
-* Ability to pin columns in Datagrid
+* Form components ([#1878](https://github.com/vmware/clarity/issues/1878))
+* Select component ([#248](https://github.com/vmware/clarity/issues/248))
+* Ability to pin the first column in Datagrid ([#1586](https://github.com/vmware/clarity/issues/1586))
 * Drag and drop utilities
-* Fixing various Treeview bugs
+* Fixing various Treeview bugs ([#1400](https://github.com/vmware/clarity/issues/1400))
 
 ## Documentation
 
