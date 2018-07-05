@@ -4,7 +4,10 @@ but awaiting proper documentation.
 
 ## Design
 
-* Pagination redesign for Datagrid
+* Pagination redesign for Datagrid ([#1384](https://github.com/vmware/clarity/issues/1384))
+* Volume 12 icons ([#2222](https://github.com/vmware/clarity/issues/2222))
+* Timeline component ([#1633](https://github.com/vmware/clarity/issues/1633))
+* Stepper component
 
 ## Engineering
 
@@ -12,8 +15,9 @@ but awaiting proper documentation.
 * Select component ([#248](https://github.com/vmware/clarity/issues/248))
 * Ability to pin the first column in Datagrid ([#1586](https://github.com/vmware/clarity/issues/1586))
 * Drag and drop utilities
-* Fixing various Treeview bugs ([#1400](https://github.com/vmware/clarity/issues/1400))
+* Treeview improvements ([#1400](https://github.com/vmware/clarity/issues/1400))
 
 ## Documentation
 
 * Recommendation for an "Export" functionality in Datagrid
+* Documentation for dark theme color palette ([#2390](https://github.com/vmware/clarity/issues/2390))
