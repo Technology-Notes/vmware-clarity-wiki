@@ -8,7 +8,8 @@ Item|Status|ETA
 [Pagination redesign for Datagrid](https://github.com/vmware/clarity/issues/1384)|Complete|-
 [Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete|-
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|Complete|-
-Stepper component|Design in progress|-
+Stepper component|In progress|-
+UI Library updates|In progress|Q3
 
 ## Engineering
 Item|Status|ETA
