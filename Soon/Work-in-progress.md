@@ -27,5 +27,5 @@ Recommendation for an "Export" functionality in Datagrid|Design complete|-
 Forms refactor to pair with Forms updates|Design in progress|-
 
 ## On Hold
-* Select component ([#248](https://github.com/vmware/clarity/issues/248))
+* [Select 2.0 component](https://github.com/vmware/clarity/issues/248)
 
