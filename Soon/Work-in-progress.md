@@ -7,7 +7,7 @@ Item|Status|ETA
 ----|----|----
 [Pagination redesign for Datagrid](https://github.com/vmware/clarity/issues/1384)|Complete|Moving to development
 [Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete|Design complete end of August
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|Complete|Unknown
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 Stepper component|In progress|Design complete end of July
 UI Library updates|In progress|August
 
@@ -22,10 +22,26 @@ Item|Status|ETA
 ## Documentation
 Item|Status|ETA
 ----|----|----
-Recommendation for an "Export" functionality in Datagrid|Design complete|Moving to development
+[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Design complete|Moving to development
 [Dark theme color palette](https://github.com/vmware/clarity/issues/2390)|Design complete|End of July
-Forms refactor to pair with Forms updates|Design in progress|End of November
+Forms documentation refactor to pair with Forms updates|Design in progress|End of November
 
-## On Hold
-* [Select 2.0 component](https://github.com/vmware/clarity/issues/248)
+## Next Up
+Item|Type|Estimated Start
+----|----|----
+[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Development|August
+[Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
+[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 
+## Notes About Works In Progress
+
+All ETAs are subject to change. We try our best to allot for changing priorities or discovery but estimation is an [inexact science when it comes to software](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/). When possible, we skew our estimates towards the pessimistic side of things. This is on purpose.
+
+If your project requires a feature or component from our library to release, we are doing a disservice by being overly optimistic on our timelines. Which brings us to our next item:
+
+If our ETA or Start Date doesn't give you at least several weeks to integrate our changes into your app, _go to Plan B_. If our date slips because we were pulled onto another priority or because a new feature requires more refactoring than we had anticipated, you need to plan ahead as if that feature will _not_ be ready in time. In general, our estimations are good. In general, we deliver on or before our estimates. But at the end of the day, delivering quality components takes as long as it will take.
+
+That said, if you find yourself at issue with our priorities or want to see if you can lend a helping hand in the interest of moving something along, please email me at [mailto:smathis@vmware.com](smathis@vmware.coml). We are open source and welcome contributions from the community. Oftentimes, the difference between getting what you want and getting what you want when you need it is being a proactive member of the community.
+
+Thanks for building with Clarity!
