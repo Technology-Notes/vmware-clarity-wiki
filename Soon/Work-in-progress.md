@@ -3,11 +3,12 @@ either from a design or engineering standpoint. Some work might already be finis
 but awaiting proper documentation.
 
 ## Design
-
-* Pagination redesign for Datagrid ([#1384](https://github.com/vmware/clarity/issues/1384)) [UX COMPLETE]
-* Volume 12 icons ([#2222](https://github.com/vmware/clarity/issues/2222))
-* Timeline component ([#1633](https://github.com/vmware/clarity/issues/1633))
-* Stepper component
+Item|Status|ETA
+----|----|----
+[Pagination redesign for Datagrid](https://github.com/vmware/clarity/issues/1384)|Design complete|-
+[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Design complete|-
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|Design complete|-
+Stepper component|Design in progress|-
 
 ## Engineering
 
