@@ -26,4 +26,10 @@ but awaiting proper documentation.
 
 * Select component ([#248](https://github.com/vmware/clarity/issues/248))
 
+## Documentation Table View
+Item | Status
+----|----
+Recommendation for an "Export" functionality in Datagrid | Design Complete
+[Dark theme color palette](https://github.com/vmware/clarity/issues/2390) | Design Complete
+Forms refactor to pair with Forms updates | Design in Progress
 
