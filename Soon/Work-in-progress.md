@@ -19,7 +19,8 @@ but awaiting proper documentation.
 ## Documentation
 
 * Recommendation for an "Export" functionality in Datagrid
-* Documentation for dark theme color palette ([#2390](https://github.com/vmware/clarity/issues/2390))
+* Dark theme color palette ([#2390](https://github.com/vmware/clarity/issues/2390))
+* Forms refactor to pair with Forms updates
 
 ## On Hold
 
