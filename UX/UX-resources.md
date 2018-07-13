@@ -1,3 +1,3 @@
-Every one of the decisions we make on a daily basis has research and logical reasoning behind it. Given the amount of detail and the sheer number of decisions that go in a single design, we cannot jam every explanation in our documentation.
+Every one of the decisions we make on our components and features has research and logical reasoning behind it. Given the amount of detail and the sheer number of decisions that go in a single design, we cannot jam every explanation in our documentation.
 
 If you want to know more about one of our decisions, browse the various links in the sidebar under "Clarity Decisions". If you find that we didn't document something that you were looking for, please contact us and we will work to get it documented.
