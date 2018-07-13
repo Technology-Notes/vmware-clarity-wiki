@@ -36,7 +36,7 @@ Item|Type|Estimated Start
 
 ## Notes About Works In Progress
 
-All ETAs are subject to change. We try our best to allot for changing priorities or discovery but estimation is an [inexact science when it comes to software](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/). When possible, we skew our estimates towards the pessimistic side of things. This is on purpose.
+All ETAs are subject to change. We try our best to allot for changing priorities or discovery but estimation is an [inexact science when it comes to software](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/). When possible, we skew our estimates towards the liberal side of things. This is on purpose.
 
 If your project requires a feature or component from our library to release, we are doing a disservice by being overly optimistic on our timelines. Which brings us to our next item:
 
