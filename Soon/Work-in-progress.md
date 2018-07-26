@@ -7,32 +7,33 @@ Item|Status|ETA
 ----|----|----
 [Pagination redesign for Datagrid](https://github.com/vmware/clarity/issues/1384)|Complete|Moving to development
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|Complete|Moving to development
+[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete|Moving to development
+[Wizard error states](https://github.com/vmware/clarity/issues/2203)|Complete|Moving to development
+UI Library updates|In review|August
 Stepper component|In progress|Design complete end of July
-[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|In Progress|Early August
-UI Library updates|In progress|August
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
+[Datagrid accessibility improvements](https://github.com/vmware/clarity/issues/2431)|In progress|End of July
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|In progress|End of September
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of August
-[Datagrid accessibility improvements](https://github.com/vmware/clarity/issues/2431)|In progress|End of July
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|September
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-"Join Us" section on community page|Complete|--
-[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Design complete|Moving to development
 Forms documentation refactor to pair with Forms updates|Design in progress|End of November
+Website IA exploration|In progress|September
 
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
 [Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Development|August
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
+[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
+[Disabling datagrid selection](https://github.com/vmware/clarity/issues/1018)|Development|Unknown
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 
 ## Notes About Works In Progress
 
