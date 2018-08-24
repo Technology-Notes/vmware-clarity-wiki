@@ -5,33 +5,35 @@ but awaiting proper documentation.
 ## Design
 Item|Status|ETA
 ----|----|----
-[Stepper component](https://github.com/vmware/clarity/issues/2503)|Complete|Moving to development
-Website/documentation IA review|In Progress|End of August
+Website/documentation IA review|In Progress|Early September
+[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Queue|October
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Datagrid accessibility improvements](https://github.com/vmware/clarity/issues/2431)|Complete|--
-[UI Library updates](https://github.com/vmware/clarity/issues/2498)|In progress|Early August
+[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Complete|--
+[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete: Awaiting 0.13 release|--
+[Disabling datagrid selection](https://github.com/vmware/clarity/issues/1018)|Complete|--
+[UI Library updates](https://github.com/vmware/clarity/issues/2498)|Complete|--
+Refactoring Datagrid Renderer|In Review|September; Blocks pinned columns
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of September
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
-[Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|In progress|Unknown
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Queue|Unknown
+Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
+[Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-Forms documentation refactor to pair with Forms updates|Design in progress|End of November
+Forms documentation refactor to pair with Forms updates|Completed|--
 Website IA exploration|In progress|September
 
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Development|August
-[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Development|End of August
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 [New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
-[Disabling datagrid selection](https://github.com/vmware/clarity/issues/1018)|Development|Unknown
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 
 
 ## Notes About Works In Progress
