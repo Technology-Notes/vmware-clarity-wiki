@@ -11,27 +11,25 @@ Website/documentation IA review|In Progress|Early September
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Recommendation for an "Export" functionality in Datagrid](https://github.com/vmware/clarity/issues/2286)|Complete|--
 [Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete: Awaiting 0.13 release|--
-[Disabling datagrid selection](https://github.com/vmware/clarity/issues/1018)|Complete|--
-[UI Library updates](https://github.com/vmware/clarity/issues/2498)|Complete|--
 Refactoring Datagrid Renderer|In Review|September; Blocks pinned columns
+[Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|In review|September
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of September
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Queue|Unknown
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|In queue|Unknown
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-Forms documentation refactor to pair with Forms updates|Completed|--
 Website IA exploration|In progress|September
+v0.13 documentation|In progress|Early September
 
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|Development|Unknown
 [New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
 
