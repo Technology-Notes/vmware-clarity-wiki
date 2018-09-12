@@ -5,27 +5,26 @@ but awaiting proper documentation.
 ## Design
 Item|Status|ETA
 ----|----|----
-Website/documentation IA review|In Progress|Early September
 [Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Queue|October
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete: Awaiting 0.13 release|--
+[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete|--
+[Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|Complete|--
 Refactoring Datagrid Renderer|In Review|September; Blocks pinned columns
-[Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|In review|September
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of September
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In queue|Unknown
+1.0 release|Awaiting Angular 7|Unknown
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-Website IA exploration|In progress|September
-v0.13 documentation|In progress|Early September
+v0.13 documentation|Complete|--
 
 ## Next Up
 Item|Type|Estimated Start
