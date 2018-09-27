@@ -11,9 +11,9 @@ Item|Status|ETA
 Item|Status|ETA
 ----|----|----
 [Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|Complete|--
+[Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|In Review|Early October; Blocks pinned columns
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
 [Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|Early October
-Refactoring Datagrid Renderer|In Review|Early October; Blocks pinned columns
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
 0.14 release|In Progress|October
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of October
