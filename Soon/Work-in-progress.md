@@ -5,17 +5,19 @@ but awaiting proper documentation.
 ## Design
 Item|Status|ETA
 ----|----|----
-[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Queue|October
+[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Review|October
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Volume 12 icons](https://github.com/vmware/clarity/issues/2222)|Complete|--
 [Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|Complete|--
-Refactoring Datagrid Renderer|In Review|September; Blocks pinned columns
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of September
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
+[Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|Early October
+0.14 release|In Progress|October
+Refactoring Datagrid Renderer|In Review|Early October; Blocks pinned columns
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of October
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In queue|Unknown
 1.0 release|Awaiting Angular 7|Unknown
@@ -29,7 +31,7 @@ v0.13 documentation|Complete|--
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
+[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|October
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
 
 
