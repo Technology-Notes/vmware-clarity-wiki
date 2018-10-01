@@ -15,7 +15,6 @@ Item|Status|ETA
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
 [Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|Early October
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
-0.14 release|In Progress|October
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of October
 [Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
