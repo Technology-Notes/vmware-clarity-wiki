@@ -10,17 +10,15 @@ Item|Status|ETA
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Internationalizing/making accessible all component icons](https://github.com/vmware/clarity/issues/2609)|Complete|--
 [Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|In Review|Early October; Blocks pinned columns
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
-[Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|Early October
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Early October
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In progress|End of October
-[Form components](https://github.com/vmware/clarity/issues/1878)|In progress|End of November
+[Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|October
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|End of October
+[Form components](https://github.com/vmware/clarity/issues/1878)|In Progress|November
+1.0 release|In Progress|November
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|In queue|Unknown
-1.0 release|Awaiting Angular 7|Unknown
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
@@ -30,7 +28,7 @@ v0.13 documentation|Complete|--
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|October
+[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
 
 
