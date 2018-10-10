@@ -1,6 +1,8 @@
-This page contains a candid and non-contractual list of what we are currently working on,
-either from a design or engineering standpoint. Some work might already be finished
-but awaiting proper documentation.
+This page contains a candid and non-contractual list of what we are currently working on, either from a design or engineering standpoint. Some work might already be finished but awaiting proper documentation.
+
+You can see our full board by visiting the ZenHub page that shows what is in the backlog, bullpen, in progress and in review. (This does require signing in to ZenHub with your GitHub account).
+
+ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=69590701
 
 ## Design
 Item|Status|ETA
