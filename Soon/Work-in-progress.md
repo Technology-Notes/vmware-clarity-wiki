@@ -7,20 +7,23 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Review|October
+[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|Complete|--
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|In Review|Early October; Blocks pinned columns
+[Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|Complete|--
+[Angular 7 support](https://github.com/vmware/clarity/issues/2154)|In Review|November
 [Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|In Progress|October
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|End of October
 [Form components](https://github.com/vmware/clarity/issues/1878)|In Progress|November
 1.0 release|In Progress|November
+[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|In Progress|Unknown
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
+[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
+[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Queue|End of October
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
@@ -30,7 +33,6 @@ v0.13 documentation|Complete|--
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Development|Unknown
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
 
 
