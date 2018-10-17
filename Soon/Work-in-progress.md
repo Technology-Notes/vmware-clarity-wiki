@@ -35,6 +35,7 @@ v0.13 documentation|Complete|--
 Item|Type|Estimated Start
 ----|----|----
 [Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
+[New datagrid filtering](https://github.com/vmware/clarity/issues/1632)|Development|Unknown
 
 
 ## Notes About Works In Progress
