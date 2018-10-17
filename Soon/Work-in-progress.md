@@ -21,6 +21,7 @@ Item|Status|ETA
 [New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|In Progress|Unknown
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 [Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
+[Icons import issue](https://github.com/vmware/clarity/issues/2599)|In Queue|Unknown
 Refactoring Popover Positioning|In Queue|Unknown; Blocks pinned columns
 [Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|In Queue|End of October
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
