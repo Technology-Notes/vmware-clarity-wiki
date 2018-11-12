@@ -15,24 +15,25 @@ Item|Status|ETA
 ----|----|----
 [Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|Complete|--
 [Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|Complete|--
+Angular Renderer2 Memory Leak|Complete|--
 [Angular 7 support](https://github.com/vmware/clarity/issues/2154)|Complete|In 1.0 Beta
 [Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|Complete|In 1.0 Beta
 [New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Complete|In 1.0 Beta
-[Form components](https://github.com/vmware/clarity/issues/1878)|In Progress|November
-Angular Renderer2 Memory Leak|In Progress|November
+[Form components](https://github.com/vmware/clarity/issues/1878)|Complete|In 1.0 Beta
 1.0 release|In Progress|November
+[Treeview refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|November
+[Icons import issue](https://github.com/vmware/clarity/issues/2599)|In Progress|November
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|December
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
-[Icons import issue](https://github.com/vmware/clarity/issues/2599)|In Progress|November
-[Treeview Node State/Status Refactor](https://github.com/vmware/clarity/issues/1400)|In Progress|Unknown
-Refactoring Popover Positioning|In Progress|Unknown; Blocks pinned columns
+[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Unknown; Blocks pinned columns
+[Accessibility fixes for 1.0 VPAT](https://github.com/vmware/clarity/issues/1954)|In Queue|December
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-1.0 Accessibility Testing|In Queue|End of November
-Website changes for 1.0|In Queue|December
+Website improvements for 1.0|In Progress|November
+1.0 Accessibility Testing|In Queue|Early 2019
 
 ## Next Up
 Item|Type|Estimated Start
