@@ -9,19 +9,12 @@ Item|Status|ETA
 ----|----|----
 Simplified Application Illustrations|In Progress|December
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
+Clarity UX audit|In Progress|January
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Refactoring Datagrid Renderer](https://github.com/vmware/clarity/issues/2670)|Complete|--
-[Volume 13 Icons](https://github.com/vmware/clarity/issues/2504)|Complete|--
-Angular Renderer2 Memory Leak|Complete|--
-[Angular 7 support](https://github.com/vmware/clarity/issues/2154)|Complete|--
-[Address Bootstrap Alpha dependency](https://github.com/vmware/clarity/issues/2686)|Complete|--
-[New Datagrid Pagination](https://github.com/vmware/clarity/issues/2361)|Complete|--
-[Form components](https://github.com/vmware/clarity/issues/1878)|Complete|--
 1.0 release|Complete|--
-[Treeview refactor](https://github.com/vmware/clarity/issues/1400)|Complete|--
 [Accessibility fixes for 1.0 VPAT](https://github.com/vmware/clarity/issues/1954)|In Progress|December
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|December
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
@@ -38,8 +31,7 @@ Website improvements for 1.0|In Progress|December
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Select 2.0 component](https://github.com/vmware/clarity/issues/248)|Development|Unknown
-[New datagrid filtering](https://github.com/vmware/clarity/issues/1632)|Development|Unknown
+In Planning|Development|Unknown
 
 
 ## Notes About Works In Progress
