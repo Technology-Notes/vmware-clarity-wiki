@@ -15,13 +15,17 @@ Clarity UX audit|In Progress|January
 Item|Status|ETA
 ----|----|----
 [Accessibility fixes for 1.0 VPAT](https://github.com/vmware/clarity/issues/1954)|Complete|December
-Planning for 2.0 Release|In Progress|December
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|December
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
+Planning for 2.0 Release|Complete|December
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
+[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|In Progress|April 2019
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Unknown; Blocks pinned columns
+[Vertical Tabs](https://github.com/vmware/clarity/issues/452)|In Queue|Early 2019
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Queue|April 2019; Blocks new datagrid filtering
+[Stepper component](https://github.com/vmware/clarity/issues/2503)|In Queue|2019
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Queue|2019
 [Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|In Queue|Unknown
-[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|In Queue|Unknown
 [Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
+[Timeline component](https://github.com/vmware/clarity/issues/1633)|At Risk|Unknown
 
 ## Documentation
 Item|Status|ETA
