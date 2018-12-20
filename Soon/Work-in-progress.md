@@ -9,6 +9,7 @@ Item|Status|ETA
 ----|----|----
 Simplified Application Illustrations|In Progress|December
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
+[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Progress|Unknown
 Clarity UX audit|In Progress|January
 
 ## Engineering
@@ -36,6 +37,11 @@ Website improvements for 1.0|In Progress|December
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
+[Vertical Tabs](https://github.com/vmware/clarity/issues/452)|Development|December
+[Combobox component](https://github.com/vmware/clarity/issues/248)|Development|Early 2019
+[Stepper component](https://github.com/vmware/clarity/issues/2503)|Development|Early 2019
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|Development|Early 2019
+[Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|Development|Early 2019
 
 
 ## Notes About Works In Progress
