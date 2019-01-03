@@ -1,3 +1,8 @@
+> # THIS IS ONLY FOR HISTORICAL PAGES DEPLOYED ON GITHUB PAGES. FOR CURRENT WEBSITE BUILD DETAILS, VISIT https://github.com/vmware/clarity/wiki/Building-the-Website.
+
+***
+
+
 This documents the way the website is built and deployed with GitHub Pages. Our website is now versioned, and the different versions of the website are kept together in the `website` branch.
 
 Inside of this branch there are two basic directories
