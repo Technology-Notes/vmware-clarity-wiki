@@ -8,7 +8,8 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 Item|Status|ETA
 ----|----|----
 Clarity UX audit|Completed|January
-[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Review|January
+[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Review|January 2019
+[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|In Progress|Early 2019
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
 
 
