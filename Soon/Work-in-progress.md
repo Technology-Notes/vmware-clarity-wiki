@@ -7,8 +7,8 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Review|January 2019
-[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|In Progress|Early 2019
+[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Review|Early 2019
+[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|In Review|Early 2019
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
 
 
@@ -26,7 +26,7 @@ Item|Status|ETA
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Unknown; Blocks pinned columns
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 [Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|In Queue|Unknown
-[Pin the first column in Datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
+[Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
@@ -36,7 +36,7 @@ Item|Status|ETA
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|Development|Early 2019
+[Keyboard Interaction for a dropdown menu component](https://github.com/vmware/clarity/issues/2543)|Development|February 2019
 
 
 ## Notes About Works In Progress
