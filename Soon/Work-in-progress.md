@@ -7,7 +7,7 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|In Review|Early 2019
+[Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|Ready for Dev|Early 2019
 [Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|In Review|Early 2019
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
 
@@ -21,6 +21,7 @@ Item|Status|ETA
 [Datagrid custom filters state method](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|April 2019; Blocks new datagrid filtering
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|April 2019
+[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Progress|April 2019
 [Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|2019
 [Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|In Progress|2019
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Unknown; Blocks pinned columns
