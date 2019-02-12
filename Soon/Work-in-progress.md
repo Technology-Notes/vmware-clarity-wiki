@@ -37,6 +37,7 @@ Item|Status|ETA
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
+[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Development|May 2019
 
 ## Notes About Works In Progress
 
