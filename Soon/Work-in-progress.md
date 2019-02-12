@@ -8,15 +8,15 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 Item|Status|ETA
 ----|----|----
 [Responsive datagrid footer design](https://github.com/vmware/clarity/issues/2855)|Ready for Dev|Early 2019
-[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|In Review|Early 2019
 [Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
 
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Adding toggle component to Angular forms](https://github.com/vmware/clarity/issues/2953)|In Progress|February 2019
-[Vertical Tabs](https://github.com/vmware/clarity/issues/452)|In Progress|Early 2019
+[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|Done|February 2019
+[Adding toggle component to Angular forms](https://github.com/vmware/clarity/issues/2953)|Done|February 2019
+[Vertical Tabs](https://github.com/vmware/clarity/issues/452)|In Review|March 2019
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/2846)|In Progress|Early 2019
 [Datagrid custom filters state method](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|April 2019; Blocks new datagrid filtering
@@ -37,8 +37,6 @@ Item|Status|ETA
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Keyboard Interaction for a dropdown menu component](https://github.com/vmware/clarity/issues/2543)|Development|February 2019
-
 
 ## Notes About Works In Progress
 
