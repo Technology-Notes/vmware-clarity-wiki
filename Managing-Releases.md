@@ -55,6 +55,6 @@ This page describes the steps to follow when releasing a new version of Clarity.
 # Publish packages
 
 1. Determine which publish script to run, there is *latest* when you are publishing the current version, and *next* when you are publishing a prerelease, and other scripts for old LTS versions.
-2. Run publish to NPM. `npm run publish:latest`
+2. Run publish to NPM. If it is the latest release use `npm run publish:latest`, if it is a prerelease use `npm run publish:next`.
 3. Check if the packages appear on NPM, and that you get a confirmation email about the publishing. It may take a few minutes to appear.
 4. Announce the release where appropriate.
