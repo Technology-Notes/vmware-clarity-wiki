@@ -15,9 +15,10 @@ Item|Status|ETA
 ----|----|----
 [Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|Done|February 2019
 [Adding toggle component to Angular forms](https://github.com/vmware/clarity/issues/2953)|Done|February 2019
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/2846)|Done|March 2019
+[Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|Done|March 2019
 [Vertical Tabs](https://github.com/vmware/clarity/issues/452)|In Review|March 2019
 [Responsive datagrid footer](https://github.com/vmware/clarity/issues/3097)|In Review|March 2019
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|March 2019
 [Datagrid custom filters state method](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|April 2019; Blocks new datagrid filtering
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|April 2019
@@ -26,7 +27,6 @@ Item|Status|ETA
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Spring 2019; Blocks pinned columns
 [Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|In Progress|2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
-[Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|In Queue|Unknown
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|2019
 
 ## Documentation
