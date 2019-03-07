@@ -15,9 +15,9 @@ Item|Status|ETA
 ----|----|----
 [Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|Done|February 2019
 [Adding toggle component to Angular forms](https://github.com/vmware/clarity/issues/2953)|Done|February 2019
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/2846)|Done|March 2019
 [Vertical Tabs](https://github.com/vmware/clarity/issues/452)|In Review|March 2019
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/2846)|In Progress|March 2019
-[Responsive datagrid footer](https://github.com/vmware/clarity/issues/3097)|In Progress|March 2019
+[Responsive datagrid footer](https://github.com/vmware/clarity/issues/3097)|In Review|March 2019
 [Datagrid custom filters state method](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|April 2019; Blocks new datagrid filtering
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|April 2019
