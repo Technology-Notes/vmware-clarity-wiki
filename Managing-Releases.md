@@ -58,3 +58,11 @@ This page describes the steps to follow when releasing a new version of Clarity.
 2. Run publish to NPM. If it is the latest release use `npm run publish:latest`, if it is a prerelease use `npm run publish:next`.
 3. Check if the packages appear on NPM, and that you get a confirmation email about the publishing. It may take a few minutes to appear.
 4. Announce the release where appropriate.
+
+# Update Icons
+
+If new icons or updates to existing icons were made:
+1. Clone the [Clarity Assets](https://github.com/vmware/clarity-assets) repo.
+2. After building the main [Clarity project](https://github.com/vmware/clarity), unzip the icon folder the new icon is located in `/dist/clr-icons/shapes/`.
+3. Copy any new icons to the appropriate icons folder in the [Clarity Assets](https://github.com/vmware/clarity-assets) repo.
+4. Commit and push the updated icons to master.
