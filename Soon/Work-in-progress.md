@@ -13,18 +13,13 @@ Item|Status|ETA
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Volume 14 icons](https://github.com/vmware/clarity/issues/2709)|Done|February 2019
-[Adding toggle component to Angular forms](https://github.com/vmware/clarity/issues/2953)|Done|February 2019
-[Creating a state input for datagrid](https://github.com/vmware/clarity/issues/2846)|Done|March 2019
-[Vertical Tabs](https://github.com/vmware/clarity/issues/452)|Done|March 2019
-[Responsive datagrid footer](https://github.com/vmware/clarity/issues/3097)|Done|March 2019
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|March 2019
-[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|In Progress|April 2019
-[Datagrid custom filters state method](https://github.com/vmware/clarity/issues/1771)|In Progress|Early 2019
-[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|April 2019; Blocks new datagrid filtering
-[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|April 2019
-[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Progress|April 2019
+[Datagrid custom filters state method](https://github.com/vmware/clarity/issues/3066)|Done|February 2019 (1.1)
+[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|Done|April 2019 (2.0)
+[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Review|April 2019 (2.0)
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2019; Blocks new datagrid filtering
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|Spring 2019
 [Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|Spring 2019
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Spring 2019
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Spring 2019; Blocks pinned columns
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|2019
@@ -32,16 +27,15 @@ Item|Status|ETA
 ## Documentation
 Item|Status|ETA
 ----|----|----
-1.0 Accessibility Testing|In Queue|Early 2019
 
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Development|May 2019
+[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Development|Summer 2019
 
 ## Notes About Works In Progress
 
-All ETAs are subject to change. We try our best to allot for changing priorities or discovery but estimation is an [inexact science when it comes to software](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/). When possible, we skew our estimates towards the liberal side of things. This is on purpose.
+All ETAs are subject to change. We try our best to allow for changing priorities or discovery but estimation is an [inexact science when it comes to software](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/). When possible, we skew our estimates towards the liberal side of things. This is on purpose.
 
 If your project requires a feature or component from our library to release, we are doing a disservice by being overly optimistic on our timelines. Which brings us to our next item:
 
