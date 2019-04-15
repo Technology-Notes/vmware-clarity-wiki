@@ -13,9 +13,10 @@ Item|Status|ETA
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Datagrid custom filters state method](https://github.com/vmware/clarity/issues/3066)|Done|February 2019 (1.1)
-[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|Done|April 2019 (2.0)
-[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Review|April 2019 (2.0)
+[Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|Done|Spring 2019 (2.0)
+[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Review|Spring 2019 (2.0)
+[Ivy support](https://github.com/vmware/clarity/issues/3266)|In Progress|Spring 2019 (2.0)
+2.0 RC|In Progress|Spring 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2019; Blocks new datagrid filtering
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|Spring 2019
 [Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|Spring 2019
@@ -31,6 +32,7 @@ Item|Status|ETA
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
+3.0 Planning|Development|Spring 2019
 [Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Development|Summer 2019
 
 ## Notes About Works In Progress
