@@ -15,13 +15,13 @@ Item|Status|ETA
 ----|----|----
 [Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|Done|Spring 2019 (2.0)
 [Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Review|Spring 2019 (2.0)
-[Ivy support](https://github.com/vmware/clarity/issues/3266)|In Progress|Spring 2019 (2.0)
 2.0 RC|In Progress|Spring 2019
-[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2019; Blocks new datagrid filtering
-[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|Spring 2019
-[Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|Spring 2019
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Spring 2019
-[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|Spring 2019; Blocks pinned columns
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|May 2019
+[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|June 2019; Blocks pinned columns
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|June 2019
+[Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|June 2019
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Summer 2019; Blocks new datagrid filtering
+[Ivy support](https://github.com/vmware/clarity/issues/3266)|In Queue|Summer 2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|2019
 
