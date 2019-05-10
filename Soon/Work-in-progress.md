@@ -7,8 +7,7 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Toasts and Notifications](https://github.com/vmware/clarity/issues/365)|In Progress|Unknown
-
+Visual Design Audit|In Progress|Summer 2019
 
 ## Engineering
 Item|Status|ETA
