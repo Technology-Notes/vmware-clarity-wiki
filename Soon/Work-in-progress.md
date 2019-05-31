@@ -20,13 +20,13 @@ Item|Status|ETA
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Review|June 2019; Blocks pinned columns
 [Stepper component](https://github.com/vmware/clarity/issues/2503)|In Review|June 2019 (2.1)
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|June 2019 (2.1)
-[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|In Queue|June 2019 (2.1)
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Summer 2019; Blocks new datagrid filtering
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Summer 2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
+[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
+[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|In Queue|June 2019 (2.1)
 [Disable datagrid row selection with a property](https://github.com/vmware/clarity/issues/1018)|In Queue|June 2019
 [File input](https://github.com/vmware/clarity/issues/672)|In Queue|Summer 2019
-[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|2019
 
 ## Documentation
