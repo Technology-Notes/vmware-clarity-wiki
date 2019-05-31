@@ -7,8 +7,8 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
+[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|Done|Ready for Dev
 Visual Design Audit|In Progress|Summer 2019
-[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|In Progress|Summer 2019
 [Accessible spacing theme](https://github.com/vmware/clarity/issues/3333)|In Progress|Unknown
 [Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Progress|Unknown
 
@@ -18,24 +18,28 @@ Item|Status|ETA
 2.0 Final Release|In Progress|Spring 2019
 [Improve Theming in Clarity](https://github.com/vmware/clarity/issues/2770)|Done|Spring 2019 (2.0)
 [Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|In Review|Spring 2019 (2.0)
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Spring 2019
-[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Progress|June 2019; Blocks pinned columns
-[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Progress|June 2019
-[Stepper component](https://github.com/vmware/clarity/issues/2503)|In Progress|Summer 2019
+[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Review|June 2019; Blocks pinned columns
+[Stepper component](https://github.com/vmware/clarity/issues/2503)|In Review|June 2019 (2.1)
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|June 2019 (2.1)
+[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|In Queue|June 2019 (2.1)
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Summer 2019; Blocks new datagrid filtering
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Summer 2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Progress|Unknown
+[Disable datagrid row selection with a property](https://github.com/vmware/clarity/issues/1018)|In Queue|June 2019
+[File input](https://github.com/vmware/clarity/issues/672)|In Queue|Summer 2019
+[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|2019
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-[Document theming customization](https://github.com/vmware/clarity/issues/1586)|In Queue|June 2019 (Post 2.0)
+[Document theming customization](https://github.com/vmware/clarity/issues/1586)|In Queue|June 2019 (2.1)
 
 ## Next Up
 Item|Type|Estimated Start
 ----|----|----
-3.0 Planning|Development|May 2019
-[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Development|3.0 (Nov 2019)
+3.0 Planning|Development|June 2019
+Theming Improvements, Phase 2|Development|3.0
 
 ## Notes About Works In Progress
 
