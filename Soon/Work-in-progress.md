@@ -9,7 +9,6 @@ Item|Status|ETA
 ----|----|----
 [Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|Done|Ready for Dev
 Visual Design Audit|In Progress|Summer 2019
-[Accessible spacing theme](https://github.com/vmware/clarity/issues/3333)|In Progress|Unknown
 [Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Progress|Unknown
 
 ## Engineering
