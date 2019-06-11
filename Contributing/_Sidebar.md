@@ -10,3 +10,5 @@
     * [Kitchen sink app](Kitchen-Sink-App)
 * [What are we working on?](Work-in-progress)
 * [UX resources](UX-resources)
+    * [Virtual Scrolling](Virtual-Scrolling)
+    * [Hierarchical Datagrid](Hierarchical-Datagrid)
