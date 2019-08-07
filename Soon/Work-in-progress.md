@@ -12,8 +12,6 @@ Item|Status|ETA
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Dropdown keyboard navigation](https://github.com/vmware/clarity/issues/2543)|Done|May 2019
-[Icons vol. 15](https://github.com/vmware/clarity/issues/3309)|Done|July 2019
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Review|Fall 2019; Blocks pinned columns
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|Fall 2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Review|Fall 2019
