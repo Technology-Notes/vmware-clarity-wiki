@@ -44,6 +44,7 @@ This page describes the steps to follow when releasing a new version of Clarity.
 1. Update the version number in the *package.json* and *package-lock.json* files.
 2. Update the release notes for the website, see https://github.com/vmware/clarity/wiki/Building-the-Website#adding-a-new-release.
 3. Preview the website and release notes locally. `npm run website:start`
+4. Generate markdown changelog file by running `npm run changelog`
 
 ### Build and commit
 
