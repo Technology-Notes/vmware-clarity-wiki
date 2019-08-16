@@ -7,7 +7,7 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Progress|Unknown
+[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Review|Unknown
 
 ## Engineering
 Item|Status|ETA
@@ -15,9 +15,9 @@ Item|Status|ETA
 [Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Review|Fall 2019; Blocks pinned columns
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|Fall 2019
 [Timeline component](https://github.com/vmware/clarity/issues/1633)|In Review|Fall 2019
+[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Fall 2019; Blocks new datagrid filtering
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Fall 2019
-[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
 Theming Improvements, Phase 2|In Progress|Fall 2019 (3.0)
 [Improvements and Changes for Clarity Icons](https://github.com/vmware/clarity/issues/2052)|In Queue|Fall 2019 (3.0)
 [Improve tree-shaking for Clarity Icons](https://github.com/vmware/clarity/issues/2599)|In Queue|Fall 2019 (3.0)
