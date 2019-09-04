@@ -12,9 +12,9 @@ Item|Status|ETA
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|In Review|Fall 2019; Blocks pinned columns
+[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|Complete|[Popover Utility](https://github.com/vmware/clarity/commit/2e195c9d15060aca721c9175462f716217541c13)
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|Fall 2019
-[Timeline component](https://github.com/vmware/clarity/issues/1633)|In Review|Fall 2019
+[Static Timeline component](https://github.com/vmware/clarity/issues/1633)|Complete|[Static Timeline Component](cc5e7e5727018eb86f75f8ad5f6435d669b1c7d9)
 [Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|In Progress|Sept 2019
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Fall 2019; Blocks new datagrid filtering
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Progress|Fall 2019
