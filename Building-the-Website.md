@@ -39,8 +39,11 @@ To add a new release, you need to update a few files and create a release templa
 
 # Versioning
 
-## v2
+## v3
 To edit the v2 website or documentation use the [website](https://github.com/vmware/clarity/tree/master/src/website) folder on the master branch. Commits merged into the master branch will trigger an automatic deploy for Netlify.
+
+## v2
+To edit the v2 website or documentation use the [website](https://github.com/vmware/clarity/tree/master/src/website) folder on the v2 branch. Commits merged into the master branch will trigger an automatic deploy for Netlify.
 
 ## v1
 To edit the v1 documentation use the [website](https://github.com/vmware/clarity/tree/v1/src/website) folder on the v1 branch. Commits merged into the v1 branch will trigger an automatic deploy for Netlify.
