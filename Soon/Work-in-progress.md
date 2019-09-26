@@ -7,19 +7,20 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
+[Volume 16 icons](https://github.com/vmware/clarity/issues/3688)|Ready for Dev|Sept 2019
 [Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|Ready for Dev|Sept 2019
 Type system improvements|In Progress|Sept 2019
+Color system improvements |In Progress|Sept 2019
 Website Improvements|In Queue|Oct 2019
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Refactoring Popover Positioning](https://github.com/vmware/clarity/issues/2683)|Complete|[Popover Utility](https://github.com/vmware/clarity/commit/2e195c9d15060aca721c9175462f716217541c13)
-[Static Timeline component](https://github.com/vmware/clarity/issues/1633)|Complete|[Static Timeline Component](cc5e7e5727018eb86f75f8ad5f6435d669b1c7d9)
 [Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Complete|Sept 2019
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|Sept 2019
 Theming Improvements, Phase 2|In Review|Fall 2019 (3.0)
 [Datagrid - conditionally disable row selection](https://github.com/vmware/clarity/issues/1018)|In Progress|Sept 2019
+[Wizard step error](https://github.com/vmware/clarity/issues/2203)|In Progress|Oct 2019
 [Improvements and Changes for Clarity Icons](https://github.com/vmware/clarity/issues/2052)|In Progress|Fall 2019 (3.0)
 [Improve tree-shaking for Clarity Icons](https://github.com/vmware/clarity/issues/2599)|In Progress|Fall 2019 (3.0)
 [Improve typings for Clarity Icons](https://github.com/vmware/clarity/issues/3337)|In Progress|Fall 2019 (3.0)
