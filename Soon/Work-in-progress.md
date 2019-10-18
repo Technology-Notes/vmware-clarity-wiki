@@ -7,24 +7,25 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Volume 16 icons](https://github.com/vmware/clarity/issues/3688)|Ready for Dev|Sept 2019
-[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|Ready for Dev|Sept 2019
-Type system improvements|In Progress|Sept 2019
-Color system improvements |In Progress|Sept 2019
-Website Improvements|In Queue|Oct 2019
+[Login page visual design](https://github.com/vmware/clarity/issues/3640)|In Progress|Oct 2019
+Type system improvements|In Progress|Oct 2019
+Color system improvements |In Progress|Oct 2019
+Website Improvements|In Progress|Oct 2019
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Accessibility Improvements](https://github.com/vmware/clarity/labels/Accessibility)|Complete|Sept 2019
-[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|In Review|Sept 2019
-Theming Improvements, Phase 2|In Review|Fall 2019 (3.0)
+[Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|Complete|Fall 2019 (3.0)
+Theming Improvements, Phase 2|Complete|Fall 2019 (3.0)
+[Wizard step error](https://github.com/vmware/clarity/issues/2203)|In Review|Oct 2019
 [Datagrid - conditionally disable row selection](https://github.com/vmware/clarity/issues/1018)|In Progress|Sept 2019
-[Wizard step error](https://github.com/vmware/clarity/issues/2203)|In Progress|Oct 2019
 [Improvements and Changes for Clarity Icons](https://github.com/vmware/clarity/issues/2052)|In Progress|Fall 2019 (3.0)
 [Improve tree-shaking for Clarity Icons](https://github.com/vmware/clarity/issues/2599)|In Progress|Fall 2019 (3.0)
 [Improve typings for Clarity Icons](https://github.com/vmware/clarity/issues/3337)|In Progress|Fall 2019 (3.0)
-[Combobox component](https://github.com/vmware/clarity/issues/248)|On Hold|Fall 2019; Blocks new datagrid filtering
+[Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|In Queue|Fall 2019 (3.0)
+[Volume 16 icons](https://github.com/vmware/clarity/issues/3688)|In Queue|Fall 2019 (3.0)
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Queue|Winter 2019
+[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Queue|Winter 2019
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|On Hold|Fall 2019
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
