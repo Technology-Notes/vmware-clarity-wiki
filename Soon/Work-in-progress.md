@@ -7,36 +7,40 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-[Login page visual design](https://github.com/vmware/clarity/issues/3640)|In Progress|Oct 2019
-Type system improvements|In Progress|Oct 2019
-Color system improvements |In Progress|Oct 2019
-Website Improvements|In Progress|Oct 2019
+Type system improvements|In Progress|2019
+Website design improvements|In Progress|2020
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
 [Datagrid master-detail feature](https://github.com/vmware/clarity/issues/2005)|Complete|Fall 2019 (3.0)
 Theming Improvements, Phase 2|Complete|Fall 2019 (3.0)
-[Wizard step error](https://github.com/vmware/clarity/issues/2203)|In Review|Oct 2019
-[Datagrid - conditionally disable row selection](https://github.com/vmware/clarity/issues/1018)|In Progress|Sept 2019
-[Improvements and Changes for Clarity Icons](https://github.com/vmware/clarity/issues/2052)|In Progress|Fall 2019 (3.0)
-[Improve tree-shaking for Clarity Icons](https://github.com/vmware/clarity/issues/2599)|In Progress|Fall 2019 (3.0)
-[Improve typings for Clarity Icons](https://github.com/vmware/clarity/issues/3337)|In Progress|Fall 2019 (3.0)
+[Wizard step error](https://github.com/vmware/clarity/issues/2203)|Complete|Oct 2019
+[Datagrid - conditionally disable row selection](https://github.com/vmware/clarity/issues/1018)|Complete|Oct 2019
+[Improvements and Changes for Clarity Icons](https://github.com/vmware/clarity/issues/2052)|Complete|Fall 2019 (3.0)
+[Improve tree-shaking for Clarity Icons](https://github.com/vmware/clarity/issues/2599)|Complete|Fall 2019 (3.0)
+[Improve typings for Clarity Icons](https://github.com/vmware/clarity/issues/3337)|Complete|Fall 2019 (3.0)
+[Volume 16 icons](https://github.com/vmware/clarity/issues/3688)|Complete|Fall 2019 (3.0)
+[Buttons for @clr/core](https://github.com/vmware/clarity/issues/4014)|In Review|Fall 2019 (3.0)
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Winter 2019
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Winter 2019
+[Datalist component](https://github.com/vmware/clarity/issues/3813)|In Progress|Winter 2019
+[Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Progress|Fall 2019 (3.0)
 [Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|In Queue|Fall 2019 (3.0)
-[Volume 16 icons](https://github.com/vmware/clarity/issues/3688)|In Queue|Fall 2019 (3.0)
-[Combobox component](https://github.com/vmware/clarity/issues/248)|In Queue|Winter 2019
-[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Queue|Winter 2019
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|On Hold|Fall 2019
+[Slider component](https://github.com/vmware/clarity/issues/112)|In Queue|Winter 2019
+[Datepicker min-max dates](https://github.com/vmware/clarity/issues/1984)|In Queue|Winter 2019
+[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Queue|Early 2020
+[Migrate icons to new @clr/core](https://github.com/vmware/clarity/issues/3905)|In Queue|Early 2020
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-Website IA improvements|In Queue|Fall 2019 (3.0)
+Website improvements|In Queue|Early 2020
 
 ## Next Up
 Item|Type|Estimated Start
-----|----|----
+Dropdowns for @clr/core|Development|Winter 2020
 
 ## Notes About Works In Progress
 
