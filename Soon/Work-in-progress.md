@@ -21,7 +21,7 @@ Item|Status|ETA
 [Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|In Queue|2020 (3.0)
 [Slider component](https://github.com/vmware/clarity/issues/112)|In Queue|2020 (3.0)
 [Design Tokens](https://github.com/vmware/clarity/issues/4116)|In Queue|2020 (3.0)
-[Datepicker min-max dates](https://github.com/vmware/clarity/issues/1984)|In Queue|Winter 2019
+[Datepicker min-max dates](https://github.com/vmware/clarity/issues/1984)|In Queue|2020
 [Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Queue|Early 2020
 [Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|Blocked|2020 (3.0)
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
