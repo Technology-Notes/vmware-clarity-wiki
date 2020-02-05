@@ -7,34 +7,38 @@ ZenHub Board: https://app.zenhub.com/workspace/o/vmware/clarity/boards?repos=695
 ## Design
 Item|Status|ETA
 ----|----|----
-Website design improvements|In Progress|2020
+Website design improvements|In Progress|Spring 2020 (4.0)
 
 ## Engineering
 Item|Status|ETA
 ----|----|----
 [Buttons for @clr/core](https://github.com/vmware/clarity/issues/4014)|Complete|Fall 2019 (3.0)
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|2020 (3.0)
-[Datalist component](https://github.com/vmware/clarity/issues/3813)|In Review|2020 (3.0)
-[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|2020 (3.0)
-[Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Progress|2020 (3.0)
-[Migrate icons to new @clr/core](https://github.com/vmware/clarity/issues/3905)|In Progress|2020 (3.0)
-[Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|In Queue|2020 (3.0)
-[Slider component](https://github.com/vmware/clarity/issues/112)|In Queue|2020 (3.0)
-[Design Tokens](https://github.com/vmware/clarity/issues/4116)|In Queue|2020 (3.0)
-[Datepicker min-max dates](https://github.com/vmware/clarity/issues/1984)|In Queue|2020
-[Circular progress and status block](https://github.com/vmware/clarity/issues/2245)|In Queue|Early 2020
-[Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|Blocked|2020 (3.0)
+[Migrate icons to new @clr/core](https://github.com/vmware/clarity/issues/3905)|Complete|Early 2020 (3.0)
+[Slider component](https://github.com/vmware/clarity/issues/112)|Complete|Early 2020 (3.0)
+[Datalist component](https://github.com/vmware/clarity/issues/3813)|Complete|Early 2020 (3.0)
+[Alerts (@clr/core)](https://github.com/vmware/clarity/issues/4009)|In Review|Spring 2020
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Spring 2020 (4.0)
+[Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|In Progress|Early 2020 (3.0)
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2020 (4.0)
+[Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Queue|Spring 2020 (4.0)
+[Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|In Queue|Spring 2020 (4.0)
+[Generic Form Containers](https://github.com/vmware/clarity/issues/2886)|In Queue|Spring 2020 (4.0)
+[Input Groups](https://github.com/vmware/clarity/issues/3778)|In Queue|Spring 2020 (4.0)
+Stepper Enhancements|In Queue|Spring 2020 (4.0)
+Migrate @clr/core treeshakeable icons to @clr/angular|In Queue|Spring 2020 (4.0)
+Forms (@clr/core)|In Queue|Fall 2020
+[Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|Blocked|Unknown
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-[Theming Documentation Improvements](https://github.com/vmware/clarity/issues/4021)|In Progress|2020 (3.0)
-Website improvements|In Queue|Early 2020
+[Theming Documentation Improvements](https://github.com/vmware/clarity/issues/4021)|Complete|2020 (3.0)
+Website improvements|In Progress|2020
 
 ## Next Up
 Item|Type|Estimated Start
-3.0 Release|Development|Jan 2020
+3.0 Release|Development|Feb 2020
 
 ## Notes About Works In Progress
 
