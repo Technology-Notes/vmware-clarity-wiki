@@ -16,9 +16,9 @@ Item|Status|ETA
 [Migrate icons to new @clr/core](https://github.com/vmware/clarity/issues/3905)|Complete|Early 2020 (3.0)
 [Slider component](https://github.com/vmware/clarity/issues/112)|Complete|Early 2020 (3.0)
 [Datalist component](https://github.com/vmware/clarity/issues/3813)|Complete|Early 2020 (3.0)
+[Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|Complete|Early 2020 (3.0)
 [Alerts (@clr/core)](https://github.com/vmware/clarity/issues/4009)|In Review|Spring 2020
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Spring 2020 (4.0)
-[Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|In Progress|Early 2020 (3.0)
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2020 (4.0)
 [Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Queue|Spring 2020 (4.0)
 [Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|In Queue|Spring 2020 (4.0)
