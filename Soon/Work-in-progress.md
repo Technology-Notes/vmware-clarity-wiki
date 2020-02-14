@@ -37,6 +37,7 @@ Item|Status|ETA
 Website improvements|In Progress|2020
 
 ## Next Up
+----|----|----
 Item|Type|Estimated Start
 3.0 Release|Development|Feb 2020
 
