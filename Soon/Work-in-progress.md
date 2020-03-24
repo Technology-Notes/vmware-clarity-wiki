@@ -12,28 +12,20 @@ Website design improvements|In Progress|Spring 2020 (4.0)
 ## Engineering
 Item|Status|ETA
 ----|----|----
-[Buttons for @clr/core](https://github.com/vmware/clarity/issues/4014)|Complete|Fall 2019 (3.0)
-[Migrate icons to new @clr/core](https://github.com/vmware/clarity/issues/3905)|Complete|Early 2020 (3.0)
-[Slider component](https://github.com/vmware/clarity/issues/112)|Complete|Early 2020 (3.0)
-[Datalist component](https://github.com/vmware/clarity/issues/3813)|Complete|Early 2020 (3.0)
-[Angular 9 + Ivy Support](https://github.com/vmware/clarity/issues/3266)|Complete|Early 2020 (3.0)
-[Alerts (@clr/core)](https://github.com/vmware/clarity/issues/4009)|Complete|Early 2020 (3.0)
-[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Spring 2020 (4.0)
-[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2020 (4.0)
-[Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Progress|Spring 2020 (4.0)
-[Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|In Progress|Spring 2020 (4.0)
-[Generic Form Containers](https://github.com/vmware/clarity/issues/2886)|In Queue|Spring 2020 (4.0)
-[Input Groups](https://github.com/vmware/clarity/issues/3778)|In Queue|Spring 2020 (4.0)
+[Generic Form Containers](https://github.com/vmware/clarity/issues/2886)|Complete|Spring 2020
+[Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Spring 2020
+[Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2020
+[Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Progress|Spring 2020
+[Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|In Progress|Spring 2020
+[Input Groups](https://github.com/vmware/clarity/issues/3778)|In Progress|Spring 2020
 Stepper Enhancements|In Queue|Spring 2020 (4.0)
 Migrate @clr/core treeshakeable icons to @clr/angular|In Queue|Spring 2020 (4.0)
 Forms (@clr/core)|In Queue|Fall 2020
-[Remove inline font from CSS](https://github.com/vmware/clarity/issues/3269)|Blocked|Unknown
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
 Item|Status|ETA
 ----|----|----
-[Theming Documentation Improvements](https://github.com/vmware/clarity/issues/4021)|Complete|2020 (3.0)
 Website improvements|In Progress|2020
 
 ## Next Up
