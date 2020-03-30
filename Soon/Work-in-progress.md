@@ -13,14 +13,14 @@ Website design improvements|In Progress|Spring 2020 (4.0)
 Item|Status|ETA
 ----|----|----
 [Generic Form Containers](https://github.com/vmware/clarity/issues/2886)|Complete|Spring 2020
+[Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|Complete|Spring 2020
 [Reordering datagrid columns](https://github.com/vmware/clarity/issues/1771)|In Review|Spring 2020
 [Combobox component](https://github.com/vmware/clarity/issues/248)|In Progress|Spring 2020
 [Modals for @clr/core](https://github.com/vmware/clarity/issues/3953)|In Progress|Spring 2020
-[Design Tokens (@clr/core)](https://github.com/vmware/clarity/issues/4116)|In Progress|Spring 2020
 [Input Groups](https://github.com/vmware/clarity/issues/3778)|In Progress|Spring 2020
 Stepper Enhancements|In Queue|Spring 2020 (4.0)
-Migrate @clr/core treeshakeable icons to @clr/angular|In Queue|Spring 2020 (4.0)
 Forms (@clr/core)|In Queue|Fall 2020
+Migrate @clr/core treeshakeable icons to @clr/angular|In Queue|Winter 2020 (5.0)
 [Pin the first column in datagrid](https://github.com/vmware/clarity/issues/1586)|Blocked|Unknown
 
 ## Documentation
