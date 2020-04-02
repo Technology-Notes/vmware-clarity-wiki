@@ -52,6 +52,15 @@ To edit the v1 documentation use the [website](https://github.com/vmware/clarity
 
 In our package.json file, there are a set of scripts that are all prefixed with `website`. This is what each of them does.
 
+## 3.0 and later
+
+* `website:build` - This runs the website build process, which includes a prod build of the website, a production build of the server, and compiles the server and prerender scripts.
+* `website:start` - This starts the local server for development, but also ensures you've built the news template first.
+* `website:render` - This runs the prerender script that ultimately outputs the precompiled index.html files.
+* `website:preview` - This starts a local server for previewing the prerendered site.
+
+## Pre 3.0
+
 * `website:compile` - This compiles the server and prerender scripts from TypeScript to JavaScript so we can run with with Node.
 * `website:server` - This runs the server which has the web application embedded inside, allowing it to take requests and return a compiled route.
 * `website:build` - This runs the website build process, which includes a prod build of the website, a production build of the server, and compiles the server and prerender scripts.
@@ -65,8 +74,8 @@ In our package.json file, there are a set of scripts that are all prefixed with 
 
 The website now runs on Netlify, so you'll need an account first, if you don't check with the Clarity team to get added (only for Clarity team maintainers).
 
-Log into Netlify, and navigate to the Clarity project, then to the **Deploys** tab. There is a **Trigger deploy** button, which has two options **Deploy site** and **Clear cache and deploy site**. Usually the **Deploy site** is sufficient, but if there are build errors you can use the cache clear option as well. 
+Log in to Netlify, find the version that you just deployed in the **Deploys** tab, and then publish it by clicking on the **Publish/Deploy** button. If the version you deployed is missing from the list of deployments, then it means your deploy failed. Note you can also find your version by the Git commit hash.
 
-Once you run a deploy it will run and be immediately available upon completion.
+Once you run a publish/deploy, it will be live on the Clarity website.
 
 We do not have automatic deploys turned on, so please do not turn it on at this time.
