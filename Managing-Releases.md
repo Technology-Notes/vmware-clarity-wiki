@@ -23,7 +23,7 @@ This page describes the steps to follow when releasing a new version of Clarity.
 
 ### Checkout code
 
-1. If you haven't already, clone the vmware/clarity repository (leave it as the origin) and we recommend to use this repo only for releasing. `git clone git@github.com:vmware/clarity.git release`
+1. If you haven't already, clone the vmware/clarity repository (leave it as the origin) and we recommend to use this repo only for releasing. `git clone --depth 1 git@github.com:vmware/clarity.git release`
 2. You'll want to always sync the latest code from the *master* branch. `git pull`
 3. Make sure you get the latest node modules. `npm install`
 4. Start the local server to preview the dev app. `ng serve`

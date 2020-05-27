@@ -15,7 +15,7 @@ Inside of this branch there are two basic directories
 To properly build and run the site, you'll start by cloning the repo and checking out the website branch. Then you'll need to setup each of the versions that you plan to preview and build. The script below could be used in a *nix environment. Open the terminal, navigate to this new directory and run the following.
 
 ```
-git clone -b website https://github.com/vmware/clarity.git website
+git clone --depth 1 -b website https://github.com/vmware/clarity.git website
 cd website
 npm install
 cd latest
